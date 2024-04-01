@@ -1,12 +1,12 @@
 # About TOSHI
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Toshi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tosheiy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 # Products（作ったもの）
 ### doing（製作途中）
 - 自作キーボードのケース（個人）
 - NotionのDatabaseをすぐに作成できるiPhoneアプリ（個人）
 ### done（製作済）
 - トイレの回数を記録しNotionのデータベースに記録するツール（個人）
-- 自作キーボード基板（個人）
+- 自作キーボード基板と簡易ケース（個人）([GitHub](https://github.com/Tosheiy/ind3236))
 - ChatGPTを使用した公式LINEBOTの作成（チーム）
 <!--
 **Tosheiy/Tosheiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
