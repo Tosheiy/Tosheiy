@@ -7,7 +7,7 @@
 ### done（製作済）
 - トイレの回数を記録しNotionのデータベースに記録するツール（個人）
 - 自作キーボード基板と簡易ケース（個人）- [GitHub](https://github.com/Tosheiy/ind3236) -
-- ChatGPTを使用した公式LINEBOTの作成（チーム）
+- ChatGPTを使用した公式LINEBOTの作成（チーム）- [GitHub](https://github.com/Tosheiy/LINE-Friend) -
 <!--
 **Tosheiy/Tosheiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
