@@ -6,7 +6,7 @@
 - NotionのDatabaseをすぐに作成できるiPhoneアプリ（個人）
 ### done（製作済）
 - トイレの回数を記録しNotionのデータベースに記録するツール（個人）
-- 自作キーボード基板と簡易ケース（個人）([GitHub](https://github.com/Tosheiy/ind3236))
+- 自作キーボード基板と簡易ケース（個人）- [GitHub](https://github.com/Tosheiy/ind3236) -
 - ChatGPTを使用した公式LINEBOTの作成（チーム）
 <!--
 **Tosheiy/Tosheiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
