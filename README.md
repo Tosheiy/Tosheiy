@@ -1,6 +1,8 @@
 # About TOSHI
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tosheiy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 フロントエンドからバックエンド、インフラまで満遍なく触れてきました。現在はReactとGoを用いた一つのWebアプリを個人で開発しています。
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tosheiy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 # Products（作ったもの）
 ### doing（製作途中）
 - 自作キーボードのケース（個人）
