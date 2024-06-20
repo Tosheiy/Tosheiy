@@ -1,9 +1,11 @@
 # About TOSHI
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tosheiy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+フロントエンドからバックエンド、インフラまで満遍なく触れてきました。現在はReactとGoを用いた一つのWebアプリを個人で開発しています。
 # Products（作ったもの）
 ### doing（製作途中）
 - 自作キーボードのケース（個人）
 - NotionのDatabaseをすぐに作成できるiPhoneアプリ（個人）
+- トイレの回数を記録し自前のデータベースに記録するツール（個人）
 ### done（製作済）
 - トイレの回数を記録しNotionのデータベースに記録するツール（個人）- [GitHub](https://github.com/Tosheiy/Record_Toilet) -
 - 自作キーボード基板と簡易ケース（個人）- [GitHub](https://github.com/Tosheiy/ind3236) -
