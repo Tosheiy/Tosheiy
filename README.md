@@ -5,9 +5,7 @@
 
 # Products（作ったもの）
 ### doing（製作途中）
-- 自作キーボードのケース（個人）
-- NotionのDatabaseをすぐに作成できるiPhoneアプリ（個人）
-- トイレの回数を記録し自前のデータベースに記録するツール（個人）
+- お腹が痛くなった場所と時間からお腹が痛くなりやすそうな時に通知が飛んでくるツール（個人）
 ### done（製作済）
 - トイレの回数を記録しNotionのデータベースに記録するツール（個人）- [GitHub](https://github.com/Tosheiy/Record_Toilet) -
 - 自作キーボード基板と簡易ケース（個人）- [GitHub](https://github.com/Tosheiy/ind3236) -
